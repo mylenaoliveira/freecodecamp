@@ -3,6 +3,7 @@ Declare JavaScript Variables */
 
 
 // Example
-var myName;
+var ourName;
 
 // Define myName below this line
+var MyName;
