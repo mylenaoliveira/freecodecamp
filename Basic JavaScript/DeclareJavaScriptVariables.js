@@ -1,5 +1,6 @@
-/* https://www.freecodecamp.org/challenges/declare-javascript-variables
-Declare JavaScript Variables */
+/* Declare JavaScript Variables 
+https://www.freecodecamp.org/challenges/declare-javascript-variables
+ */
 
 
 // Example
