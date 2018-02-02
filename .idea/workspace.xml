@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdf32b87-a3ae-4ac7-a1fd-fd21bc30a5b5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/AppendingVariablestoStrings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswithPlusOperator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/ConstructingStringswithVariables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/EscapeSequencesinStrings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Basic JavaScript/UseBracketNotationtoFindtheFirstCharacterinaString.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js" afterPath="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js" />
+      <change beforePath="$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js" afterPath="$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js" />
+      <change beforePath="$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js" afterPath="$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="FindtheLengthofaString.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,14 +34,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js" />
         <option value="$PROJECT_DIR$/Basic JavaScript/EscapeSequencesinStrings.js" />
-        <option value="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswithPlusOperator.js" />
-        <option value="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js" />
         <option value="$PROJECT_DIR$/Basic JavaScript/Constructing Strings with Variables.js" />
         <option value="$PROJECT_DIR$/Basic JavaScript/ConstructingStringswithVariables.js" />
-        <option value="$PROJECT_DIR$/Basic JavaScript/AppendingVariablestoStrings.js" />
         <option value="$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js" />
+        <option value="$PROJECT_DIR$/Basic JavaScript/UseBracketNotationtoFindtheFirstCharacterinaString.js" />
+        <option value="$PROJECT_DIR$/Basic JavaScript/AppendingVariablestoStrings.js" />
+        <option value="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswithPlusOperator.js" />
+        <option value="$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js" />
+        <option value="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js" />
       </list>
     </option>
   </component>
@@ -67,9 +53,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4404" />
-    <option name="width" value="406" />
-    <option name="height" value="186" />
+    <option name="x" value="2391" />
+    <option name="y" value="-9" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -86,6 +73,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -103,7 +91,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,27 +127,28 @@
       <workItem from="1516373836654" duration="21000" />
       <workItem from="1516620464518" duration="123000" />
       <workItem from="1516808183828" duration="1122000" />
-      <workItem from="1517498482769" duration="2900000" />
+      <workItem from="1517498482769" duration="3022000" />
+      <workItem from="1517506583713" duration="790000" />
+      <workItem from="1517585942448" duration="2414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4166000" />
+    <option name="totallyTimeSpent" value="7492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15984817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15984817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -181,13 +169,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -195,9 +196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -205,9 +203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -215,44 +210,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="72" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic JavaScript/EscapeSequencesinStrings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswithPlusOperator.js">
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js">
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/UseBracketNotationtoFindtheFirstCharacterinaString.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/AppendingVariablestoStrings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -269,20 +251,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic JavaScript/AppendingVariablestoStrings.js">
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js">
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/EscapeSequencesinStrings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="69">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswithPlusOperator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
