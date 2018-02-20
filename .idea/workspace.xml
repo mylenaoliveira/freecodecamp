@@ -3,37 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdf32b87-a3ae-4ac7-a1fd-fd21bc30a5b5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/AddTwoNumberswithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/7-addTwoNumberswithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/AppendingVariablestoStrings.js" afterPath="$PROJECT_DIR$/Basic JavaScript/28-appendingVariablestoStrings.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/CommentyourJavaScriptCode.js" afterPath="$PROJECT_DIR$/Basic JavaScript/1-commentyourJavaScriptCode.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/CompoundAssignmentWithAugmentedAddition.js" afterPath="$PROJECT_DIR$/Basic JavaScript/17-compoundAssignmentWithAugmentedAddition.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/CompoundAssignmentWithAugmentedDivision.js" afterPath="$PROJECT_DIR$/Basic JavaScript/19-compoundAssignmentWithAugmentedDivision.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/CompoundAssignmentWithAugmentedMultiplication.js" afterPath="$PROJECT_DIR$/Basic JavaScript/19-1compoundAssignmentWithAugmentedMultiplication.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/CompoundAssignmentWithAugmentedSubtraction.js" afterPath="$PROJECT_DIR$/Basic JavaScript/18-compoundAssignmentWithAugmentedSubtraction.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswithPlusOperator.js" afterPath="$PROJECT_DIR$/Basic JavaScript/25-concatenatingStringswithPlusOperator.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/ConcatenatingStringswiththePlusEqualsOperator.js" afterPath="$PROJECT_DIR$/Basic JavaScript/26-concatenatingStringswiththePlusEqualsOperator.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/ConstructingStringswithVariables.js" afterPath="$PROJECT_DIR$/Basic JavaScript/27-constructingStringswithVariables.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/ConvertCelsiustoFahrenheit.js" afterPath="$PROJECT_DIR$/Basic JavaScript/20-convertCelsiustoFahrenheit.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/CreateDecimalNumberswithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/13-createDecimalNumberswithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/DeclareJavaScriptVariables.js" afterPath="$PROJECT_DIR$/Basic JavaScript/2-declareJavaScriptVariables.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/DeclareStringVariables.js" afterPath="$PROJECT_DIR$/Basic JavaScript/21-declareStringVariables.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/DecrementaNumberwithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/12-decrementaNumberwithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/DivideOneNumberbyAnotherwithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/10-divideOneNumberbyAnotherwithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/DivideoneDecimalbyAnotherwithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/15-divideoneDecimalbyAnotherwithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/EscapeSequencesinStrings.js" afterPath="$PROJECT_DIR$/Basic JavaScript/24-escapeSequencesinStrings.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/EscapingLiteralQuotesinStrings.js" afterPath="$PROJECT_DIR$/Basic JavaScript/22-escapingLiteralQuotesinStrings.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/FindingaRemainderinJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/16-findingaRemainderinJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/FindtheLengthofaString.js" afterPath="$PROJECT_DIR$/Basic JavaScript/29-findtheLengthofaString.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/IncrementaNumberwithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/11-incrementaNumberwithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/InitializingVariableswiththeAssignmentOperator.js" afterPath="$PROJECT_DIR$/Basic JavaScript/4-initializingVariableswiththeAssignmentOperator.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/MultiplyTwoDecimalswithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/14-multiplyTwoDecimalswithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/MultiplyTwoNumberswithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/9-multiplyTwoNumberswithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/QuotingStringswithSingleQuotes.js" afterPath="$PROJECT_DIR$/Basic JavaScript/23-quotingStringswithSingleQuotes.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/StoringValueswiththeAssignmentOperator.js" afterPath="$PROJECT_DIR$/Basic JavaScript/3-storingValueswiththeAssignmentOperator.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/SubtractOneNumberfromAnotherwithJavaScript.js" afterPath="$PROJECT_DIR$/Basic JavaScript/8-subtractOneNumberfromAnotherwithJavaScript.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/UnderstandingCaseSensitivityinVariables.js" afterPath="$PROJECT_DIR$/Basic JavaScript/6-understandingCaseSensitivityinVariables.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/UnderstandingUninitializedVariables.js" afterPath="$PROJECT_DIR$/Basic JavaScript/5-understandingUninitializedVariables.js" />
-      <change beforePath="$PROJECT_DIR$/Basic JavaScript/UseBracketNotationtoFindtheFirstCharacterinaString.js" afterPath="$PROJECT_DIR$/Basic JavaScript/30-useBracketNotationtoFindtheFirstCharacterinaString.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,10 +49,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2391" />
-    <option name="y" value="-9" />
-    <option name="width" value="2418" />
-    <option name="height" value="1318" />
+    <option name="x" value="3690" />
+    <option name="y" value="-15" />
+    <option name="width" value="1934" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -100,6 +69,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,14 +87,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Email-Sun" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
@@ -157,12 +126,15 @@
       <workItem from="1517498482769" duration="3022000" />
       <workItem from="1517506583713" duration="790000" />
       <workItem from="1517585942448" duration="3016000" />
-      <workItem from="1517844582524" duration="618000" />
+      <workItem from="1517844582524" duration="1215000" />
+      <workItem from="1517949714204" duration="19000" />
+      <workItem from="1518112221419" duration="3000" />
+      <workItem from="1519076095076" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8712000" />
+    <option name="totallyTimeSpent" value="9375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
@@ -299,9 +271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
