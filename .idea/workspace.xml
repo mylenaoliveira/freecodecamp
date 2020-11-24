@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdf32b87-a3ae-4ac7-a1fd-fd21bc30a5b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5 and CSS/UseanIDAttributetoStyleanElement.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5 and CSS/UseanIDAttributetoStyleanElement.html" afterDir="false" />
-    </list>
+    <list default="true" id="cdf32b87-a3ae-4ac7-a1fd-fd21bc30a5b5" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <workItem from="1517949714204" duration="19000" />
       <workItem from="1518112221419" duration="3000" />
       <workItem from="1519076095076" duration="44000" />
-      <workItem from="1606241012902" duration="406000" />
+      <workItem from="1606241012902" duration="438000" />
     </task>
     <servers />
   </component>
